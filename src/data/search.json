@@ -1,0 +1,14 @@
+{
+  "validSearch": {
+    "departureCity": "SOF",
+    "arrivalCity": "LON",
+    "departureDateOffsetDays": 14,
+    "returnDateOffsetDays": 21
+  },
+  "invalidSearch": {
+    "departureCity": "SOF",
+    "arrivalCity": "LON",
+    "departureDateOffsetDays": 25,
+    "returnDateOffsetDays": 20
+  }
+}
