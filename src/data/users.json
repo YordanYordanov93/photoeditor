@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "email": "test.user@example.com",
+    "password": "SuperSecure123!"
+  },
+  "lockedUser": {
+    "email": "locked.user@example.com",
+    "password": "Locked123!"
+  }
+}
